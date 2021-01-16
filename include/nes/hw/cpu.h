@@ -1,0 +1,15 @@
+#ifndef CPU_BBC50CFEA9784A48AD1BD131F7C9BB9E_H
+#define CPU_BBC50CFEA9784A48AD1BD131F7C9BB9E_H
+
+#include <chrono>
+
+namespace nes::hw
+{
+	class cpu
+	{
+	public:
+
+	};
+}
+
+#endif //CPU_BBC50CFEA9784A48AD1BD131F7C9BB9E_H
